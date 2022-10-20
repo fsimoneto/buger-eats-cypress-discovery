@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Felipe Simoneto",
+        "cpf": "00000014141",
+        "email": "felps@hotmail.com",
+        "zap": "45999999999",
+        "address": {
+            "postalcode": "85806-140",
+            "street": "Rua Apinajés",
+            "number": "1000",
+            "details": "casa branca",
+            "district": "Santa Cruz",
+            "city_state": "Cascavel/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "cpf_inv": {
+        "name": "Joao Lucas",
+        "cpf": "x00000014141AA",
+        "email": "joao@hotmail.com",
+        "zap": "11999999999",
+        "address": {
+            "postalcode": "85806-140",
+            "street": "Rua Apinajés",
+            "number": "1000",
+            "details": "casa branca",
+            "district": "Santa Cruz",
+            "city_state": "Cascavel/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Felipe Simoneto",
+        "cpf": "00000014141",
+        "email": "felps.com.br",
+        "zap": "45999999999",
+        "address": {
+            "postalcode": "85806-140",
+            "street": "Rua Apinajés",
+            "number": "1000",
+            "details": "casa branca",
+            "district": "Santa Cruz",
+            "city_state": "Cascavel/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
